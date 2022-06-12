@@ -1,0 +1,13 @@
+echo "Installing Modules"
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install Pillow
+pip install sklearn
+pip install tensorflow
+pip install keras
+pip install tensorflow_datasets
+pip install tensorflow_hub
+pip install opencv-python
+pip install datetime
+echo "Installation Complete!!"
